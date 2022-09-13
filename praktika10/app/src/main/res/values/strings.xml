@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">praktika10</string>
+    <string name="registration_text">Введите имя пользователя</string>
+    <string name="alt_registr_text">Имя пользователя</string>
+    <string name="button_text">Сохранить</string>
+    <string name="button_delete_text">Удалить</string>
+</resources>
